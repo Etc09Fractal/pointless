@@ -30,7 +30,7 @@ def start():
 	elif text == 9:
 		label1text.set("WARNING: Pointless.")
 	elif text == 10:
-		label1text.set("Bonjour, comment t'appelle tu? Est-ce que tu veux aller chez moi?")
+		label1text.set("Flitnstones enjoy getting broken.")
 	elif text == 11:
 		label1text.set("Washington DC.")
 	elif text == 12:
